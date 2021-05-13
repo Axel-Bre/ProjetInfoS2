@@ -11,6 +11,11 @@ package fr.insa.breton.testgit1;
  */
 public class Main {
     public static void main(String[] args) {
-        Point
+    int id=1;
+    System.out.println("abscisse du pt");
+    double abscisse = Lire.d();
+    System.out.println("ordonnee du pt");
+    double ordonnee = Lire.d();
+    Point m =new Point(id,abscisse,ordonnee);
     }
 }

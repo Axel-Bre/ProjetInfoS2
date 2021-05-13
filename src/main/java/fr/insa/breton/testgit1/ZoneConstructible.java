@@ -9,5 +9,6 @@ package fr.insa.breton.testgit1;
  *
  * @author Axel
  */
-public class Hello {
+public class ZoneConstructible {
     
+}
